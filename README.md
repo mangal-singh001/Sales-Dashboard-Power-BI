@@ -28,6 +28,7 @@ The goal of this project is to analyze and visualize product sales data across y
 ![Dashboard Page 1](https://raw.githubusercontent.com/mangal-singh001/Sales-Dashboard-Power-BI/main/Dashboard%20Preview.png)
 
 
+
 ---
 
 ### 🔹 Page 2 – Deep Dive into Product Sales & Trends
