@@ -25,9 +25,7 @@ The goal of this project is to analyze and visualize product sales data across y
 
 ### 🔹 Page 1 – KPI Overview + Product Performance
 
-
-https://github.com/mangal-singh001/Sales-Dashboard-Power-BI/blob/main/Dashborad%20Preview.png
-
+![Dashboard Page 1](https://raw.githubusercontent.com/mangal-singh001/Sales-Dashboard-Power-BI/main/Dashboard%20Preview.png)
 
 
 ---
