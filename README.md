@@ -19,39 +19,8 @@ The goal of this project is to analyze and visualize product sales data across y
 - 📊 KPI Cards: Total Sales, Quantity Ordered, Profit Margin
 - 🎛️ Filters by Year, City, Employee, and Product Line
 
----
-
-## 🖼️ Dashboard Snapshots
-
-### 🔹 Page 1 – KPI Overview + Product Performance
-
-## 📸 Dashboard Snapshots
-
-### 🔹 Page 1 – KPI Overview + Product Performance  
-<img src="https://raw.githubusercontent.com/mangal-singh001/Sales-Dashboard-Power-BI/main/Dashboard%20Preview.png" width="800"/>
 
 
-
----
-
-### 🔹 Page 2 – Deep Dive into Product Sales & Trends
-
-![Sales Dashboard](https://github.com/mangal-singh001/Sales-Dashboard-Power-BI/blob/main/Sales%20Dashboard.png?raw=true)
-
-
----
-
-## 🎥 Demo Video
-
-### 🎥 Dashboard Demo
-
-▶️ [Watch Full Demo](https://github.com/mangal-singh001/Sales-Dashboard-Power-BI/assets/134469955/6dd3d161-c5e9-4b46-89bc-0ebf4efc7aa1)
-
-
-
-This short video demonstrates all features and filters in action.
-
----
 
 ## 📁 Project Files
 
