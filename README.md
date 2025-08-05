@@ -8,7 +8,7 @@ Welcome to my interactive **Sales Dashboard** project built in **Power BI**, usi
 ## 📸 Dashboard Previews
 
 ### 🔹 Page 1 – Sales Overview
-![Sales Dashboard Page 1](Dashboard%20Preview.png)
+![Sales Dashboard Page 1](Dashborad%20Preview.png)
 
 ### 🔹 Page 2 – Detailed Product Analysis
 ![Sales Dashboard Page 2](Sales%20Dashboard.png)
