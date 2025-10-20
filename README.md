@@ -14,6 +14,7 @@ Welcome to my interactive **Sales Dashboard** project built in **Power BI**, usi
 ![Sales Dashboard Page 2](Sales%20Dashboard.png)
 
 
+
 ## 🚀 Project Objective
 
 The goal of this project is to analyze and visualize product sales data across years, cities, and product lines, while identifying top-selling and least-performing products. The dashboard is fully interactive with slicers and dynamic visuals.
